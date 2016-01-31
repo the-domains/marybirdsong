@@ -1,0 +1,28 @@
+name: marybirdsong
+favicon: null
+layout_spectrum: 0.26326494943350554
+typography_spectrum: 0.8038326008245349
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.23512476379983127
+  lightness: 0.620873583946377
+  saturation: 0.12929806136526167
+  rhythmicContrast: 0.6476142641622573
+purpose: []
