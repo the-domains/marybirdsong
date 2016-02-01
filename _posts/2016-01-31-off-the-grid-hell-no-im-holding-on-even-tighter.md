@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T00:02:54.589Z'
+datePublished: '2016-02-01T00:02:54.488Z'
 dateModified: '2016-02-01T00:02:47.594Z'
 title: "Off the Grid? Hell No. I'm Holding On Even Tighter\_"
 author: []
