@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T00:02:54.488Z'
-dateModified: '2016-02-01T00:02:47.594Z'
+datePublished: '2016-02-01T00:07:13.195Z'
+dateModified: '2016-02-01T00:07:08.384Z'
 title: "Off the Grid? Hell No. I'm Holding On Even Tighter\_"
 author: []
 sourcePath: _posts/2016-01-31-off-the-grid-hell-no-im-holding-on-even-tighter.md
@@ -29,4 +29,6 @@ _type: Article
 While much of America is obsessed with getting OFF the grid, I have decided to hold on even tighter. But the grid I'm talking about is http://thegrid.io 
 
 It's a website currently in beta testing that, through the magic of A.I. (a.k.a. "magical blogging robot elves"), the grid promises to make us all less stressed out about having to post to tons of different social media sites and still try to have something resembling (what used to be called)...
+
+A LIFE.
 ![Photograph by Ben Cope.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/409e56fea245b77022ee5777cb20d1757bb7a876.jpg)
